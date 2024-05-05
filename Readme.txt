@@ -1,1 +1,6 @@
 Due to large size of the final HTML File along with the final report these is an issue of the rendering the graphs into the report of the final assignment HTML file, I have also submitted the final dashboard generated with the code within which the interactive graph is being rendered along with the interactive map and rank table. The root cause seems to be unknown since the dashboard is being rendered completely in the ipynb run. I believe the export is facing issues due to limitations of my native pc and VSC. Please consider running the ipynb with the files in this repository in case of any render issues. The code is coded to run with the datasets being present in the same location the ipynb file is present. On my runs the total number of maps generated are 8*3*2 [years*type of mortality*rate or value]. The Graph is seen as soon as you change the dashboard dataset [interactivity based appearance] focused from the default [default - 2014/firegun/mortality rate] and the same number of graphs are generated.
+
+
+FOR CODE TO BE RUN COMPLETELY AND THE DASHBOARD TO BE SUCCESSFUL INSTALL ALL FILES OF THIS REPOSITORY IN A SINGLE DIRECTORY AND RUN THE .IPYNB
+
+NOTE - NO CHANGES ARE MADE TO THIS REPOSITORY AFTER THE SUBMISSION OF ASSIGNMENT TO COMPLY AND MAINTAIN ACADEMIC INTEGRITY UNTIL GRADES ARE PUBLISHED.
